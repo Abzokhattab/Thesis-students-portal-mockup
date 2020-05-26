@@ -48,7 +48,8 @@ https://drive.google.com/drive/folders/1ql8iLfs_PYqPuxbJsmBEJcen8vNhnxJR?usp=sha
 create a midto-high fidelity clickable mockup of the main user journeys within this MVP.
   . first we developed a basic user interface to test the functionality first and user journey 
    in this clickable mockup : https://gradstudentportal.invisionapp.com/prototype/k-ck9wstn97005zta01ssop6ng1/play/59bedaa6?v=SIRoKarO%2Fqn4pgoRgFeMbw%3D%3D&linkshare=urlcopied
-   . After performing usablity testing and getting feedbacks from users 
+    After performing usablity testing and getting feedbacks from users 
    https://docs.google.com/document/d/1DttvxTFzqe2q5oUNXqQLpW3IsrokxjriM1jjxpjC3dM/edit#
-   we created this mockup interface to improve ux 
+  
+  then we created this mockup interface to improve ux 
     https://photos.app.goo.gl/6sEWs2DyNH5NjoxA8
